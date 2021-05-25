@@ -1,7 +1,7 @@
 # Welcome everybody 👋
 
 ## Sponsors / Supporters
-| <img align="center"  width="300" src="./assets/w2w.png">  | Way2Web is the technology partner for innovative startups and well established businesses. Are you passionate about developing next-level software for amazing clients? [**Then we are looking!**](https://www.way2web.nl/en/jobs-at-way2web/)   |
+| <img align="center"  width="300" src="./assets/w2w.png">  | Way2Web is the technology partner for innovative startups and well established businesses. Are you passionate about developing next-level software for amazing clients? [**Then we are looking for you!**](https://www.way2web.nl/en/jobs-at-way2web/)   |
 ------ | -----
 
 
